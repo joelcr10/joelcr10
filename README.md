@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Fruit Freshness Detection using Iot and Deep Learning<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning React and ML<br>
 
+[![An image of @joelcr10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joelcr10)](https://holopin.io/@joelcr10)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joel_cr_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcr2000) 
